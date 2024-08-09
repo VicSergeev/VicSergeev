@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VicSergeev
-- 👀 I’m interested in iOS App development
+- 👀 I’m interested in iOS development
 - 🌱 I’m currently learning UIKit
 
 <!---
