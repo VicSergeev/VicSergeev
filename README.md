@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @VicSergeev
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning UIKit
-- 🪐 Amateur astronomer
-- 🛩️ Former ground operartions manager with 15 years of xp
+- 🔭 Amateur astronomer and astrophotgrapher
+- 🪐 Boinc volunteer computing participant on projects such as SETI@Home, Einstein@Home, MilkyWay@Home since mid 2010s
+- 🛩️ Former ground operartions manager in Civil Aviation with 15 years of xp
+- 🛰️ NOAA and HAM Radio enthusiast
 
 <!---
 VicSergeev/VicSergeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
