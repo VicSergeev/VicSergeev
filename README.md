@@ -5,6 +5,7 @@
 - 🪐 Boinc volunteer computing participant on projects such as SETI@Home, Einstein@Home, MilkyWay@Home since mid 2010s
 - 🛩️ Former ground operartions manager in Civil Aviation with 15 years of xp
 - 🛰️ NOAA and HAM Radio enthusiast
+- 🏄🏻 SUP surfer
 
 <!---
 VicSergeev/VicSergeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
