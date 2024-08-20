@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VicSergeev
-- 👀 I’m interested in iOS development
+- 👀 I’m interested in iOS development and macOS desktop development
 - 🌱 I’m currently learning UIKit
 - 🔭 Amateur astronomer and astrophotgrapher
 - 🪐 Boinc volunteer computing participant in projects such as SETI@Home, Einstein@Home, MilkyWay@Home since mid 2010s
