@@ -6,6 +6,7 @@
 - 🛩️ Former ground operartions manager of Civil Aviation with 15 years of xp
 - 🛰️ NOAA and HAM Radio enthusiast
 - 🏄🏻 SUP surfer
+- 🚙 Suzuki Grand Vitara 1st Gen fan
 
 <!---
 VicSergeev/VicSergeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
