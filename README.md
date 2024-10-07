@@ -4,9 +4,8 @@
 - 🔭 Amateur astronomer and astrophotgrapher
 - 🪐 Boinc volunteer computing participant in projects such as SETI@Home, Einstein@Home, MilkyWay@Home since mid 2010s
 - 🛩️ Former ground operartions manager of Civil Aviation with 15 years of xp
-- 🛰️ NOAA and HAM Radio enthusiast
+- 🛰️ NOAA, HAM Radio, Python and Fedora enthusiast
 - 🏄🏻 SUP surfer
-- 🚙 Suzuki Grand Vitara 1st Gen fan
 
 <!---
 VicSergeev/VicSergeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
